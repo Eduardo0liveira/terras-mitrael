@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background: burlywood;
+}
+#cabecalho{
+    background-color: brown;
+    padding: 15px;
+    text-align: center;
+    clear: both;
+}
+#area-logo, #area-menu{
+    padding: 10px;
+}
+#area-logo h1{
+    color: burlywood;
+}
+#area-menu a{
+    color: burlywood;
+    text-decoration: none;
+    padding: 10px;
+}
+#area-menu a:hover{
+    color: brown;
+    background: burlywood;
+}
+#area-menu a:active{
+    background: burlywood;
+}
+#area-principal{
+    background: rgb(255, 255, 255);
+    width: 650px;
+    margin: 20px;
+    padding: 10px ;
+    float: left;
+}
+#area-principal h1{
+    
+}
+#direita{
+    
+   float: right;
+   margin: 10px;
+   background: brown;
+   padding: 20px;
+}
+#direita h3{
+    padding: 5px auto;
+}
+#direita p{
+    padding: 5px;
+}
+
+#direita a{
+    text-decoration: none;
+    padding: 5px;
+    color: burlywood;
+}
+#direita a:hover{
+    background: burlywood;
+    color: brown;
+
+}
+#imagem{
+    margin: 20px, auto;
+    width: 620px;
+    margin-left: 10px;
+}
+#resumomapa{
+    float: right;
+}
+#direita h1{
+    color: burlywood;
+}
+.cor-burly{
+color: burlywood;
+}
